@@ -153,3 +153,6 @@
 \dV#m
 \dtheta#m
 \dphi#m
+\T#m
+\drho#m
+\nfrac{arg1}{arg2}
