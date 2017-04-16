@@ -156,3 +156,6 @@
 \T#m
 \drho#m
 \nfrac{arg1}{arg2}
+\dmu#m
+\dA#m
+\solutionendline
