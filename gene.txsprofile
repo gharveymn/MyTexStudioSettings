@@ -8,18 +8,18 @@ created_by_TXS_version=2.12.2
 created_by_TXS_hg_revision=6381:c3413e45ac96
 
 [texmaker]
-Tools\Commands\latex="\"C:/Program Files (x86)/MiKTeX 2.9/miktex/bin/latex.exe\" -src -interaction=nonstopmode %.tex"
-Tools\Commands\pdflatex="\"C:/Program Files (x86)/MiKTeX 2.9/miktex/bin/pdflatex.exe\" -synctex=1 -interaction=nonstopmode %.tex"
-Tools\Commands\xelatex="\"C:/Program Files (x86)/MiKTeX 2.9/miktex/bin/xelatex.exe\" -synctex=1 -interaction=nonstopmode %.tex"
-Tools\Commands\lualatex="\"C:/Program Files (x86)/MiKTeX 2.9/miktex/bin/lualatex.exe\" -synctex=1 -interaction=nonstopmode %.tex"
-Tools\Commands\view-dvi=\"C:\\Program Files (x86)\\MiKTeX 2.9\\miktex\\bin\\yap.exe\" -1 -s @?\"c:ame \"?am.dvi\"
+Tools\Commands\latex="\"C:/Program Files/MiKTeX 2.9/miktex/bin/x64/latex.exe\" -src -interaction=nonstopmode %.tex"
+Tools\Commands\pdflatex="\"C:/Program Files/MiKTeX 2.9/miktex/bin/x64/pdflatex.exe\" -synctex=1 -interaction=nonstopmode %.tex"
+Tools\Commands\xelatex="\"C:/Program Files/MiKTeX 2.9/miktex/bin/x64/xelatex.exe\" -synctex=1 -interaction=nonstopmode %.tex"
+Tools\Commands\lualatex="\"C:/Program Files/MiKTeX 2.9/miktex/bin/x64/lualatex.exe\" -synctex=1 -interaction=nonstopmode %.tex"
+Tools\Commands\view-dvi=\"C:\\Program Files/MiKTeX 2.9/miktex/bin/x64/yap.exe\" -1 -s @?\"c:ame \"?am.dvi\"
 Tools\Commands\view-ps=C:\\WINDOWS\\system32\\OpenWith.exe \"?am.ps\"
 Tools\Commands\view-pdf-external=
 Tools\Commands\dvips=dvips.exe -o %.ps %.dvi
 Tools\Commands\dvipng=dvipng.exe -T tight -D 120 %.dvi
 Tools\Commands\ps2pdf=ps2pdf.exe %.ps
 Tools\Commands\dvipdf=dvipdfm.exe %.dvi
-Tools\Commands\bibtex=\"C:/Program Files (x86)/MiKTeX 2.9/miktex/bin/bibtex.exe\" %
+Tools\Commands\bibtex=\"C:/Program Files/MiKTeX 2.9/miktex/bin/x64/bibtex.exe\" %
 Tools\Commands\bibtex8=bibtex8.exe %
 Tools\Commands\biber=biber.exe %
 Tools\Commands\makeindex=makeindex.exe %.idx
@@ -64,13 +64,13 @@ Common%20Encodings=UTF-8, ISO-8859-1, windows-1252, Apple Roman
 Files\Max%20Recent%20Files=5
 Files\Max%20Recent%20Projects=3
 Files\Max%20Recent%20Sessions=5
-Files\Recent%20Files=C:/Users/Gene/Downloads/cv_5.tex, C:/Program Files (x86)/MiKTeX 2.9/tex/latex/geneassignment/geneassignment.sty, C:/Users/Gene/Google Drive/School/3year/summer/research/mydocs/errata/math3420/errata.tex, C:/Users/Gene/Google Drive/School/3year/summer/research/mydocs/errata/numericalAnalysisOfPDEs/errata.tex, C:/workspace/typescript/vscode/nightswitch/icon/icon.tex
+Files\Recent%20Files=C:/Users/Gene/FileHosts/OneDrive/school/futalg/docs/git/git.tex, C:/Program Files/MiKTeX 2.9/tex/latex/geneassignment/geneassignment.sty, C:/Users/Gene/Downloads/cv_5.tex, C:/Program Files (x86)/MiKTeX 2.9/tex/latex/geneassignment/geneassignment.sty, C:/Users/Gene/Google Drive/School/3year/summer/research/mydocs/errata/math3420/errata.tex
 Files\Recent%20Project%20Files=@Invalid()
 Files\Recent%20Session%20Files=@Invalid()
 Files\Remember%20File%20Filter=true
 Files\Recent%20Files%20Highlighting=@Variant(\0\0\0\x7f\0\0\0\x10StringStringMap\0\0\0\0\x1\0\0\0\xaa\0\x43\0:\0/\0U\0s\0\x65\0r\0s\0/\0G\0\x65\0n\0\x65\0/\0G\0o\0o\0g\0l\0\x65\0 \0\x44\0r\0i\0v\0\x65\0/\0S\0\x63\0h\0o\0o\0l\0/\0[\0\x32\0\x30\0\x31\0\x37\0_\0\x32\0_\0W\0]\0 \0P\0H\0Y\0S\0 \0\x32\0\x33\0\x38\0\x30\0/\0\x41\0s\0s\0i\0g\0n\0m\0\x65\0n\0t\0s\0/\0\x41\0s\0s\0i\0g\0n\0m\0\x65\0n\0t\0 \0\x35\0/\0\x35\0.\0t\0\x65\0x\0\0\0\xe\0(\0L\0\x61\0)\0T\0\x65\0X)
 Files\RestoreSession=true
-Files\Last%20Document=C:/Users/Gene/Downloads/cv_5.tex
+Files\Last%20Document=C:/Users/Gene/FileHosts/OneDrive/school/futalg/docs/git/git.tex
 Files\Parse%20BibTeX=true
 Bibliography\BibFileEncoding=UTF-8
 Files\Parse%20Master=true
@@ -86,9 +86,9 @@ Editor\LogFileEncoding=Document
 Editor\ScanInstalledLatexPackages=true
 Tools\Insert%20Unicode%20From%20SymbolGrid=true
 Spell\DictionaryDir=C:\\Program Files (x86)\\TeXstudio\\dictionaries
-Spell\Language=en_US
+Spell\Language=<none>
 Spell\Dic=<dic not found>
-Thesaurus\Database=C:\\Program Files (x86)\\TeXstudio\\dictionaries\\th_en_US_v2.dat
+Thesaurus\Database=
 Update\AutoCheck=true
 Update\UpdateLevel=0
 Update\AutoCheckInvervalDays=7
@@ -320,7 +320,7 @@ Preview\Cursor%20Follows%20Scrolling=false
 Preview\Sync%20Multiple%20Views=true
 Preview\Invert%20Colors=false
 Preview\Grayscale=false
-Editor\Completion%20Files=abntcite.cwl, acro.cwl, acronym.cwl, adjcalc.cwl, afterpage.cwl, algorithm2e.cwl, allrunes.cwl, amsbsy.cwl, amsfonts.cwl, amsmath.cwl, amsopn.cwl, amssymb.cwl, amstext.cwl, amsthm.cwl, appendix.cwl, array.cwl, atbegshi.cwl, attachfile.cwl, authblk.cwl, babel.cwl, bbm.cwl, biblatex.cwl, blindtext.cwl, bm.cwl, booktabs.cwl, braket.cwl, calc.cwl, cancel.cwl, caption.cwl, cases.cwl, chemformula.cwl, chemstyle.cwl, circuitikz.cwl, class-beamer.cwl, class-book.cwl, class-letter.cwl, class-memoir.cwl, class-moderncv.cwl, "class-scrartcl,scrreprt,scrbook.cwl", class-scrlttr2.cwl, cleveref.cwl, color.cwl, colortbl.cwl, commath.cwl, coordsys.cwl, cquthesis.cwl, csquotes.cwl, currvita.cwl, cyrillic.cwl, datatool.cwl, datatool-base.cwl, diagxy.cwl, doi.cwl, empheq.cwl, enumerate.cwl, epigraph.cwl, epstopdf.cwl, esint.cwl, etex.cwl, etoolbox.cwl, eucal.cwl, eurosym.cwl, everysel.cwl, exam.cwl, fancyhdr.cwl, fancyunits_big-fractions.cwl, fancyunits_medium-fractions.cwl, fancyunits_small-fractions.cwl, fancyunits-base.cwl, fancyunits-np.cwl, fancyunits-per.cwl, fancyvrb.cwl, fhgtechdoku_additional.cwl, fixme.cwl, float.cwl, fontenc.cwl, fontspec.cwl, footmisc.cwl, framed.cwl, geneassignment.cwl, gensymb.cwl, geometry.cwl, german.cwl, glossaries.cwl, glosstex.cwl, graphicx.cwl, harvard.cwl, hyperref.cwl, ifluatex.cwl, ifoddpage.cwl, ifpdf.cwl, iftex.cwl, ifthen.cwl, ifvtex.cwl, ifxetex.cwl, import.cwl, infwarerr.cwl, inputenc.cwl, jurabib.cwl, kantlipsum.cwl, keyval.cwl, latex-209.cwl, latex-dev.cwl, latex-document.cwl, latex-l2tabu.cwl, latex-mathsymbols.cwl, layout.cwl, libertine.cwl, lipsum.cwl, listings.cwl, lmodern.cwl, logsys.cwl, longtable.cwl, lscape.cwl, ltxcmds.cwl, ltxdoc.cwl, ltxtable.cwl, luatex.cwl, manyfoot.cwl, marvosym.cwl, mathtools.cwl, mdframed.cwl, mdwlist.cwl, memhfixc.cwl, menukeys.cwl, metrix.cwl, mhchem.cwl, microtype.cwl, minted.cwl, multicol.cwl, multido.cwl, multimedia.cwl, multirow.cwl, nameref.cwl, natbib.cwl, newclude.cwl, ngerman.cwl, nicefrac.cwl, nomencl.cwl, paracol.cwl, parskip.cwl, pdfcolmk.cwl, pdfpages.cwl, pgf.cwl, pgfcore.cwl, pgfplots.cwl, pgfrcs.cwl, pgfsys.cwl, physics.cwl, pifont.cwl, placeins.cwl, psfrag.cwl, pst-3d.cwl, pst-blur.cwl, pst-char.cwl, pst-coil.cwl, pst-eps.cwl, pst-fill.cwl, pst-node.cwl, pst-plot.cwl, pstricks.cwl, pst-text.cwl, pst-tree.cwl, ragged2e.cwl, rotating.cwl, scraddr.cwl, scrdate.cwl, scrlfile.cwl, scrpage2.cwl, scrtime.cwl, secsty.cwl, setspace.cwl, siunitx.cwl, siunitx-special.cwl, soul.cwl, subcaption.cwl, subfig.cwl, subfigure.cwl, subfiles.cwl, supertabular.cwl, svninfo.cwl, svn-multi.cwl, syntonly.cwl, tabu.cwl, tabularx.cwl, tabulary.cwl, tex.cwl, textcomp.cwl, theorem.cwl, threeparttable.cwl, tikz.cwl, tikz-timing.cwl, titlesec.cwl, titling.cwl, tocbibind.cwl, tocloft.cwl, todonotes.cwl, trimclip.cwl, txfonts.cwl, ulem.cwl, units.cwl, upgreek.cwl, url.cwl, varioref.cwl, varwidth.cwl, verbatim.cwl, verse.cwl, virginialake.cwl, wasysym.cwl, wrapfig.cwl, xcolor.cwl, xetex.cwl, xifthen.cwl, xkeyval.cwl, xltxtra.cwl, xparse.cwl, xspace.cwl, xtab.cwl, xy.cwl, yathesis.cwl, yfonts.cwl
+Editor\Completion%20Files=abntcite.cwl, acro.cwl, acronym.cwl, adjcalc.cwl, afterpage.cwl, algorithm2e.cwl, allrunes.cwl, amsbsy.cwl, amsfonts.cwl, amsmath.cwl, amsopn.cwl, amssymb.cwl, amsthm.cwl, appendix.cwl, array.cwl, atbegshi.cwl, attachfile.cwl, babel.cwl, bbm.cwl, biblatex.cwl, bm.cwl, booktabs.cwl, braket.cwl, calc.cwl, cancel.cwl, caption.cwl, cases.cwl, chemformula.cwl, chemstyle.cwl, circuitikz.cwl, class-beamer.cwl, class-book.cwl, class-letter.cwl, class-memoir.cwl, class-moderncv.cwl, "class-scrartcl,scrreprt,scrbook.cwl", class-scrlttr2.cwl, cleveref.cwl, color.cwl, colortbl.cwl, commath.cwl, coordsys.cwl, cquthesis.cwl, csquotes.cwl, currvita.cwl, cyrillic.cwl, datatool.cwl, datatool-base.cwl, diagxy.cwl, doi.cwl, empheq.cwl, enumerate.cwl, epigraph.cwl, epstopdf.cwl, etex.cwl, etoolbox.cwl, eurosym.cwl, everysel.cwl, fancyhdr.cwl, fancyunits_big-fractions.cwl, fancyunits_medium-fractions.cwl, fancyunits_small-fractions.cwl, fancyunits-base.cwl, fancyunits-np.cwl, fancyunits-per.cwl, fancyvrb.cwl, fhgtechdoku_additional.cwl, fixme.cwl, float.cwl, fontspec.cwl, footmisc.cwl, framed.cwl, geneassignment.cwl, geometry.cwl, german.cwl, glossaries.cwl, glosstex.cwl, graphicx.cwl, harvard.cwl, hyperref.cwl, ifluatex.cwl, ifoddpage.cwl, ifpdf.cwl, iftex.cwl, ifthen.cwl, ifvtex.cwl, ifxetex.cwl, import.cwl, infwarerr.cwl, jurabib.cwl, kantlipsum.cwl, keyval.cwl, latex-209.cwl, latex-dev.cwl, latex-document.cwl, latex-l2tabu.cwl, latex-mathsymbols.cwl, layout.cwl, libertine.cwl, lipsum.cwl, listings.cwl, logsys.cwl, longtable.cwl, lscape.cwl, ltxcmds.cwl, ltxtable.cwl, luatex.cwl, manyfoot.cwl, marvosym.cwl, mathtools.cwl, mdframed.cwl, mdwlist.cwl, memhfixc.cwl, menukeys.cwl, metrix.cwl, mhchem.cwl, microtype.cwl, minted.cwl, multicol.cwl, multido.cwl, multimedia.cwl, multirow.cwl, nameref.cwl, natbib.cwl, newclude.cwl, ngerman.cwl, nicefrac.cwl, nomencl.cwl, paracol.cwl, parskip.cwl, pdfcolmk.cwl, pdfpages.cwl, pgf.cwl, pgfcore.cwl, pgfplots.cwl, pgfrcs.cwl, pgfsys.cwl, physics.cwl, pifont.cwl, placeins.cwl, psfrag.cwl, pst-3d.cwl, pst-blur.cwl, pst-char.cwl, pst-coil.cwl, pst-eps.cwl, pst-fill.cwl, pst-node.cwl, pst-plot.cwl, pstricks.cwl, pst-text.cwl, pst-tree.cwl, ragged2e.cwl, rotating.cwl, scraddr.cwl, scrdate.cwl, scrlfile.cwl, scrpage2.cwl, scrtime.cwl, secsty.cwl, setspace.cwl, siunitx.cwl, siunitx-special.cwl, subcaption.cwl, subfig.cwl, subfigure.cwl, subfiles.cwl, supertabular.cwl, svninfo.cwl, svn-multi.cwl, tabu.cwl, tabularx.cwl, tabulary.cwl, tex.cwl, textcomp.cwl, theorem.cwl, tikz.cwl, tikz-timing.cwl, titlesec.cwl, titling.cwl, tocbibind.cwl, tocloft.cwl, todonotes.cwl, trimclip.cwl, ulem.cwl, units.cwl, upgreek.cwl, url.cwl, varioref.cwl, varwidth.cwl, verse.cwl, virginialake.cwl, wasysym.cwl, xcolor.cwl, xetex.cwl, xifthen.cwl, xkeyval.cwl, xltxtra.cwl, xparse.cwl, xspace.cwl, xtab.cwl, xy.cwl, yathesis.cwl, yfonts.cwl
 qttwp\userwidth=700
 qttwp\compil=1
 qttwp\tocdepth=2
