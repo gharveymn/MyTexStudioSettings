@@ -2,10 +2,12 @@
 IniMode=true
 
 [version]
-written_by_TXS_version=2.12.4
-written_by_TXS_hg_revision=6476:3e5c3afa4719
+written_by_TXS_version=2.12.6
+written_by_TXS_hg_revision=6632:7777b2b8a906
 created_by_TXS_version=2.12.2
 created_by_TXS_hg_revision=6381:c3413e45ac96
+written_by_Qt_version=329985
+created_by_Qt_version=329985
 
 [texmaker]
 Tools\Commands\latex="\"C:/Program Files/MiKTeX 2.9/miktex/bin/x64/latex.exe\" -src -interaction=nonstopmode %.tex"
@@ -64,13 +66,13 @@ Common%20Encodings=UTF-8, ISO-8859-1, windows-1252, Apple Roman
 Files\Max%20Recent%20Files=5
 Files\Max%20Recent%20Projects=3
 Files\Max%20Recent%20Sessions=5
-Files\Recent%20Files=C:/Users/Gene/FileHosts/OneDrive/school/futalg/docs/git/git.tex, C:/Program Files/MiKTeX 2.9/tex/latex/geneassignment/geneassignment.sty, C:/Users/Gene/Downloads/cv_5.tex, C:/Program Files (x86)/MiKTeX 2.9/tex/latex/geneassignment/geneassignment.sty, C:/Users/Gene/Google Drive/School/3year/summer/research/mydocs/errata/math3420/errata.tex
+Files\Recent%20Files=C:/Users/Gene/FileHosts/OneDrive/school/coursefiles/3year/fall/PHYS3650/assign/a3/a3.tex, C:/Users/Gene/FileHosts/OneDrive/school/coursefiles/3year/fall/MATH3470/assign/a1.tex, C:/Users/Gene/FileHosts/OneDrive/personal/docs/resume/resume.tex, C:/Users/Gene/FileHosts/OneDrive/school/coursefiles/3year/fall/PHYS3650/assign/a2/a2.tex, C:/Program Files/MiKTeX 2.9/tex/latex/generesume/generesume.cls
 Files\Recent%20Project%20Files=@Invalid()
 Files\Recent%20Session%20Files=@Invalid()
 Files\Remember%20File%20Filter=true
 Files\Recent%20Files%20Highlighting=@Variant(\0\0\0\x7f\0\0\0\x10StringStringMap\0\0\0\0\x1\0\0\0\xaa\0\x43\0:\0/\0U\0s\0\x65\0r\0s\0/\0G\0\x65\0n\0\x65\0/\0G\0o\0o\0g\0l\0\x65\0 \0\x44\0r\0i\0v\0\x65\0/\0S\0\x63\0h\0o\0o\0l\0/\0[\0\x32\0\x30\0\x31\0\x37\0_\0\x32\0_\0W\0]\0 \0P\0H\0Y\0S\0 \0\x32\0\x33\0\x38\0\x30\0/\0\x41\0s\0s\0i\0g\0n\0m\0\x65\0n\0t\0s\0/\0\x41\0s\0s\0i\0g\0n\0m\0\x65\0n\0t\0 \0\x35\0/\0\x35\0.\0t\0\x65\0x\0\0\0\xe\0(\0L\0\x61\0)\0T\0\x65\0X)
 Files\RestoreSession=true
-Files\Last%20Document=C:/Users/Gene/FileHosts/OneDrive/school/futalg/docs/git/git.tex
+Files\Last%20Document=C:/Users/Gene/FileHosts/OneDrive/school/coursefiles/3year/fall/PHYS3650/assign/a3/a3.tex
 Files\Parse%20BibTeX=true
 Bibliography\BibFileEncoding=UTF-8
 Files\Parse%20Master=true
@@ -86,13 +88,13 @@ Editor\LogFileEncoding=Document
 Editor\ScanInstalledLatexPackages=true
 Tools\Insert%20Unicode%20From%20SymbolGrid=true
 Spell\DictionaryDir=C:\\Program Files (x86)\\TeXstudio\\dictionaries
-Spell\Language=<none>
+Spell\Language=en_US
 Spell\Dic=<dic not found>
-Thesaurus\Database=
+Thesaurus\Database=C:\\Program Files (x86)\\TeXstudio\\dictionaries\\th_en_US_v2.dat
 Update\AutoCheck=true
 Update\UpdateLevel=0
 Update\AutoCheckInvervalDays=7
-Update\LastCheck=@DateTime(\0\0\0\x10\0\0\0\0\0\0%\x81L\x3\x7f\t\xdb\0)
+Update\LastCheck=@DateTime(\0\0\0\x10\0\0\0\0\0\0%\x81\xa8\x3\xdb?O\0)
 Editor\WordWrapMode=1
 Editor\WrapLineWidth=80
 Editor\Parentheses%20Matching=true
@@ -218,12 +220,12 @@ Preview\Mode=4
 Preview\Auto%20Preview=1
 Preview\Auto%20Preview%20Delay=300
 Preview\SegmentPreviewScalePercent=150
-Geometries\PdfViewerLeft=891
+Geometries\PdfViewerLeft=764
 Geometries\PdfViewerTop=0
-Geometries\PdfViewerWidth=1029
+Geometries\PdfViewerWidth=1156
 Geometries\PdfViewerHeight=895
 Geometries\PdfViewerMaximized=false
-Geometries\PdfViewerState="@ByteArray(\0\0\0\xff\0\0\0\0\xfd\0\0\0\x2\0\0\0\0\0\0\0\0\0\0\0\0\xfc\x2\0\0\0\x3\xfb\0\0\0\xe\0o\0u\0t\0l\0i\0n\0\x65\0\0\0\0\0\xff\xff\xff\xff\0\0\0\x90\0\xff\xff\xff\xfb\0\0\0\xe\0p\0\x64\0\x66\0i\0n\0\x66\0o\0\0\0\0\0\xff\xff\xff\xff\0\0\0\x92\0\xff\xff\xff\xfb\0\0\0\x10\0o\0v\0\x65\0r\0v\0i\0\x65\0w\0\0\0\0\0\xff\xff\xff\xff\0\0\0\x92\0\xff\xff\xff\0\0\0\x3\0\0\0\0\0\0\0\0\xfc\x1\0\0\0\x3\xfb\0\0\0\f\0s\0\x65\0\x61\0r\0\x63\0h\0\0\0\0\0\xff\xff\xff\xff\0\0\x1\xc0\0\xff\xff\xff\xfb\0\0\0\n\0\x66\0o\0n\0t\0s\0\0\0\0\0\xff\xff\xff\xff\0\0\0m\0\xff\xff\xff\xfb\0\0\0\n\0\x63\0l\0o\0\x63\0k\0\0\0\0\0\xff\xff\xff\xff\0\0\0m\0\xff\xff\xff\0\0\x4\x5\0\0\x3=\0\0\0\x4\0\0\0\x4\0\0\0\b\0\0\0\b\xfc\0\0\0\x1\0\0\0\x2\0\0\0\x1\0\0\0\xe\0t\0o\0o\0l\0\x42\0\x61\0r\x1\0\0\0\0\xff\xff\xff\xff\0\0\0\0\0\0\0\0)"
+Geometries\PdfViewerState="@ByteArray(\0\0\0\xff\0\0\0\0\xfd\0\0\0\x2\0\0\0\0\0\0\0\0\0\0\0\0\xfc\x2\0\0\0\x3\xfb\0\0\0\xe\0o\0u\0t\0l\0i\0n\0\x65\0\0\0\0\0\xff\xff\xff\xff\0\0\0\x90\0\xff\xff\xff\xfb\0\0\0\xe\0p\0\x64\0\x66\0i\0n\0\x66\0o\0\0\0\0\0\xff\xff\xff\xff\0\0\0\x92\0\xff\xff\xff\xfb\0\0\0\x10\0o\0v\0\x65\0r\0v\0i\0\x65\0w\0\0\0\0\0\xff\xff\xff\xff\0\0\0\x92\0\xff\xff\xff\0\0\0\x3\0\0\0\0\0\0\0\0\xfc\x1\0\0\0\x3\xfb\0\0\0\f\0s\0\x65\0\x61\0r\0\x63\0h\0\0\0\0\0\xff\xff\xff\xff\0\0\x1\xc0\0\xff\xff\xff\xfb\0\0\0\n\0\x66\0o\0n\0t\0s\0\0\0\0\0\xff\xff\xff\xff\0\0\0m\0\xff\xff\xff\xfb\0\0\0\n\0\x63\0l\0o\0\x63\0k\0\0\0\0\0\xff\xff\xff\xff\0\0\0m\0\xff\xff\xff\0\0\x4\x84\0\0\x3=\0\0\0\x4\0\0\0\x4\0\0\0\b\0\0\0\b\xfc\0\0\0\x1\0\0\0\x2\0\0\0\x1\0\0\0\xe\0t\0o\0o\0l\0\x42\0\x61\0r\x1\0\0\0\0\xff\xff\xff\xff\0\0\0\0\0\0\0\0)"
 Preview\ToolbarVisible=true
 Preview\AnnotationPanelVisible=false
 Preview\CacheSize=512
@@ -288,7 +290,7 @@ Tools\User%20Order=user0, user1
 Tools\Preview%20Compile%20Time%20Out=15000
 Tools\Had%20Successful%20Process%20Start=true
 Files\Default%20File%20Filter=TeX files (*.tex *.bib *.sty *.cls *.mp *.dtx *.cfg *.ins *.ltx *.tikz *.pdf_tex)
-PDFSplitter=0.53621677957269409
+PDFSplitter=0.5841170323928945
 Tools\Kind\LaTeX=latex, pdflatex, xelatex, lualatex, latexmk, compile
 Tools\Kind\Rerunnable=latex, pdflatex, xelatex, lualatex
 Tools\Kind\Pdf=pdflatex, xelatex, lualatex, latexmk, dvipdf, ps2pdf
@@ -303,7 +305,7 @@ Grammar\Display%20Error%204=true
 Grammar\Display%20Error%205=true
 Grammar\Display%20Error%206=true
 Grammar\Display%20Error%207=true
-Search\Find%20History=m, adjust, therefore, $(M4)$, $(D)$, && (M1) \\\\, && (M2) \\\\, && (M4) \\\\, \\mathbb{R}, \\textrm{I\\!R}, \\mathbb{P}, \\mathbb{N}, (P, \\equiv, is, \\vec, (\\\\vec{.*}}), (\\\\vec\\{)(.*\\}\\}), (\\\\vec\\{(.*)\\}\\}), (\\\\vec\\{(.*)\\}), \\\\vec\\{, textbf, midrule, \\hat{i}, \\hat{j}, x, y, direction, yellow, scriptsize, --, " -- ", 8^2, 7^2, 5^2, we have, \\ref, ---, rank, mm, x -\\frac{x^3}{3!} + \\frac{x^5}{5!} + \\cdots, x^2 -\\frac{x^4}{3} + \\frac{2x^6}{45} + \\cdots, n_{glass1}, section, gauss, Gauss, Gauss's, n)_n, k, x_n, x_k, y_l, y_n, \\textit{\\textbf{Problem.}}, \\bx, \\bm{x}, \\mathbbm{I}, bigskip, width, pdivone, pdivmult, \\bm{v_2}, \\bm{v_1}, \\bm{r_1}, \\bm{r_2}, \\bm{r_{21}}, \\bm{r_{12}}, B_{1z}, |e|, color, @@sect, startse, startsection, Requi, xsect, count, c@, counter, font, sect, star, ssect, usepackage, title, solution, TheSolution, @@addp, Solution@Em, if@fra, solutiontitle, framedso, Requ, if@framed, framed, ignores, ignorespaces, MakeF, cancel, addpoi, shaded, if@shaded, @@shadedsolutions, definecolor, leftskip, newen, FrameCom, FrameCommand, \\def\\FrameCommand, FrameRestore, if@, \\mu_1, \\sigma_1, \\mu_2, \\sigma_2, noci, \\d, \\diff, v, bodyfont, it, itsh, @@space, body, normal, defin, textit, \\rangle\\right), \\left(\\langle, ref, i, \", \\limits, (J), resister, minipage, paragraph, @@ssect, @@par, \\eps, [a-z]), ([a-z]\\)), (\\\\hat\\{\\\\phi\\}), (\\\\hat\\{\\\\rho\\}), (\\\\x), (\\\\y), (\\\\dy), (\\\\dx), -4.5, 3, -3, incident, "node\\[midway,left\\]", photon\\], \\\\limits, phi\\(, \\\\mathrm\\{exp\\}, \\\\mr\\{exp\\}, \\\\frac\\{1\\}\\{\\\\omega\\{C\\}\\}, \\\\frac\\{1\\}\\{\\\\omega\\{RC\\}\\}, size, .3, caption, ReplicatedOutput, includegr, \\\\del, "\\\\code\\{([^,\\]]+)\\}", equal, bm\\{F\\}_B, Z_S, R_S, \\\\norm\\{\\\\rv\\}, \\if, if, \\\\e, \\\\e\\^, xparse, psi, eq, \\_\\{D\\}, cos, v_, p, q, R_{2}, R_{2'}, nand1, solutionend, V_\\{A\\} +, notCin, notA1, notS2, norC1
+Search\Find%20History=m, adjust, therefore, $(M4)$, $(D)$, && (M1) \\\\, && (M2) \\\\, && (M4) \\\\, \\mathbb{R}, \\textrm{I\\!R}, \\mathbb{P}, \\mathbb{N}, (P, \\equiv, is, \\vec, (\\\\vec{.*}}), (\\\\vec\\{)(.*\\}\\}), (\\\\vec\\{(.*)\\}\\}), (\\\\vec\\{(.*)\\}), \\\\vec\\{, textbf, midrule, \\hat{i}, \\hat{j}, x, y, direction, yellow, scriptsize, --, " -- ", 8^2, 7^2, 5^2, we have, \\ref, ---, rank, mm, x -\\frac{x^3}{3!} + \\frac{x^5}{5!} + \\cdots, x^2 -\\frac{x^4}{3} + \\frac{2x^6}{45} + \\cdots, n_{glass1}, section, gauss, Gauss, Gauss's, n)_n, k, x_n, x_k, y_l, y_n, \\textit{\\textbf{Problem.}}, \\bx, \\bm{x}, \\mathbbm{I}, bigskip, width, pdivone, pdivmult, \\bm{v_2}, \\bm{v_1}, \\bm{r_1}, \\bm{r_2}, \\bm{r_{21}}, \\bm{r_{12}}, B_{1z}, |e|, color, @@sect, startse, startsection, Requi, xsect, count, c@, counter, font, sect, star, ssect, usepackage, title, solution, TheSolution, @@addp, Solution@Em, if@fra, solutiontitle, framedso, Requ, if@framed, framed, ignores, ignorespaces, MakeF, cancel, addpoi, shaded, if@shaded, @@shadedsolutions, definecolor, leftskip, newen, FrameCom, FrameCommand, \\def\\FrameCommand, FrameRestore, if@, \\mu_1, \\sigma_1, \\mu_2, \\sigma_2, noci, \\d, \\diff, v, bodyfont, it, itsh, @@space, body, normal, defin, textit, \\rangle\\right), \\left(\\langle, ref, i, \", \\limits, (J), resister, minipage, paragraph, @@ssect, @@par, \\eps, [a-z]), ([a-z]\\)), (\\\\hat\\{\\\\phi\\}), (\\\\hat\\{\\\\rho\\}), (\\\\x), (\\\\y), (\\\\dy), (\\\\dx), -4.5, 3, -3, incident, "node\\[midway,left\\]", photon\\], \\\\limits, phi\\(, \\\\mathrm\\{exp\\}, \\\\mr\\{exp\\}, \\\\frac\\{1\\}\\{\\\\omega\\{C\\}\\}, \\\\frac\\{1\\}\\{\\\\omega\\{RC\\}\\}, size, .3, caption, ReplicatedOutput, includegr, \\\\del, "\\\\code\\{([^,\\]]+)\\}", equal, bm\\{F\\}_B, Z_S, R_S, \\\\norm\\{\\\\rv\\}, \\if, if, \\\\e, \\\\e\\^, xparse, psi, eq, \\_\\{D\\}, cos, v_, p, q, R_{2}, R_{2'}, nand1, solutionend, V_\\{A\\} +, notCin, notA1, notS2, norC1, enum
 Search\Case%20Sensitive=true
 Search\Whole%20Words=false
 Search\Regular%20Expression=true
@@ -344,37 +346,37 @@ Tools\After%20BibTeX%20Change=tmx://latex && tmx://bibtex && tmx://latex
 User\New%20Key%20Replacements%20Created=true
 Macros\0=RR, \\mathbbm{R}, RR, rrr
 Macros\1=inRR, \\in\\mathbbm{R}, inRR, /ir
-Macros\2=Surround math, "%SCRIPT\ntxt = cursor.selectedText()\neditor.write(\"$\"+txt+\"$\")\ncursor.clearSelection()", $expression$, 
-Macros\3=dolla dolla bill yall, $%|$, $...$, sss
-Macros\4=section*, \\section*{%|}, sec*, /s\\*
-Macros\5=section, \\section{%|}, sec, /ss
-Macros\6=Fraction, \\frac{%|%<num%>%|}{%<dnm%>}%<%:persistent%>, fr, "(?highlighted-as:numbers,math-delimiter,math-keyword)/fr"
-Macros\7=Paragraph, \\paragraph{%|}, pp, /pp
-Macros\8=Left Right Parentheses, \\left(%|\\right)%<%:persistent%>, lr(, "(?highlighted-as:numbers,math-delimiter,math-keyword)/lp"
-Macros\9=Matrix Space, \\mathcal{M}, mmm, mmm
-Macros\10=Definition*, \\begin{definition*}\n\t%|\n\\end{definition*}, def*, /df\\*
-Macros\11=SI, \\SI{%|%<num%>%|}{%<units%>}%<%:persistent%>, SI, /si
-Macros\12=KK, \\mathbbm{K}, KK, kkk
-Macros\13=Integral, \\int_{%|%<a%>%|}^{%<b%>}%<f(x)%>\\d{%<x%>}, int, /int
-Macros\14=FF, \\mathbbm{F}, FF, fff
-Macros\15=Math Roman, \\mathrm{%|}%<%:persistent%>, rm, /rm
-Macros\16=BMatrix, \\begin{bmatrix}\n\t%|\n\\end{bmatrix}, bmatrix, "(?highlighted-as:numbers,math-delimiter,math-keyword)/bm"
-Macros\17=CC, \\mathbbm{C}, CC, ccc
-Macros\18=subscript, _{%|}%<%:persistent%>, sub, "(?highlighted-as:numbers,math-delimiter,math-keyword)_"
-Macros\19=superscript, ^{%|}%<%:persistent%>, super, "(?highlighted-as:numbers,math-delimiter,math-keyword)\\^"
-Macros\20=Theorem, \\begin{theorem}\n\t%|\n\\end{theorem}, thh, /thh
-Macros\21=Theorem, \\begin{theorem*}\n\t%|\n\\end{theorem*}, th*, /th\\*
-Macros\22=Left Right Brackets, \\left[%|\\right]%<%:persistent%>, lr[, "(?highlighted-as:numbers,math-delimiter,math-keyword)/lb"
-Macros\23=Proof, \\begin{proof}\n\t%|\n\\end{proof}, proof, /prf
-Macros\24=Lab Template, "\\documentclass[10pt, letterpaper]{article}\n\\usepackage{genelab}\n\\setlist[enumerate]{label={\\alph*}),font=\\bf}\n\n\\setlength{\\droptitle}{-1in}   % This is your set screw\n\n\\title{\n\\normalfont \\normalsize \n\\textsc{University of Manitoba \\\\ \n%|%<COURSE%>%|, %<TERM%>} \\\\\n[10pt] \n\\rule{\\linewidth}{0.5pt} \\\\[6pt] \n\\huge %<LAB TITLE%>  \\\\\n\\rule{\\linewidth}{2pt}  \\\\[10pt]\n}\n\\author{Gene Harvey}\n\\date{\\normalsize \\today}\n\n\\begin{document}\n\t\\maketitle\n\t\\noindent\n\tDate Performed \\dotfill %<DATE PERFORMED%> \\\\\n\tPartners \\dotfill %<PARTNERS%>\\\\\n\tInstructor \\dotfill %<TA%> \\\\\n\t\n\t\\begin{abstract}\n\t\t\n\t\\end{abstract}\n\t\n\t\\newpage\n\t\n\t\\section*{Introduction}\n\t\n\t\\section*{Methods}\n\t\n\t\\subsection*{Symbols and Equations \\\\ {\\small relevant to results}}\n\t\n\t\\begin{center}\n\t\\def\\arraystretch{1.5}%\n\t\\newcolumntype{P}[1]{>{\\centering\\arraybackslash}p{#1}}\n\t\\begin{tabular}{| c | P{6cm} |}\n\t\\hline\n\t\\multicolumn{1}{|c|}{Ref} & \\multicolumn{1}{c|}{Equation} \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t\\end{tabular}\n\t\n\t\\begin{tabular}{| c | p{8cm} | c |}\n\t\\hline\n\t\\multicolumn{1}{|c|}{Symbol} & \\multicolumn{1}{c}{Meaning} & \\multicolumn{1}{|c|}{Units}\\\\ \n\t\\hline\n\t &  &  \\\\\n\t\\hline\n\t\\end{tabular}\n\t\\end{center}\n\t\n\t\\section*{Data and Analysis}\n\t\n\t\\subsection*{Analysis}\n\t\n\t\\begin{center}\n\t\\begin{minipage}{\\textwidth}\n\t\\centering\n\t\\large Derivation of Uncertainties \\\\ \\smallskip\n\t\n\t\\normalsize\n\t\\begin{framed}\n\t\\begin{minipage}{\\textwidth}\n\t\\framebox[1cm][c]{$\\textbf{\\textit{VAR}}$}\n\t\\medskip\n\t\n\t\n\t\\end{minipage}\n\t\\end{framed}\n\t\\end{minipage}\n\t\\end{center}\n\t\n\t\\section*{Discussion}\n\t\n\t\\subsection*{Possible Sources of Error}\n\t\n\t\\subsection*{General Discussion}\n\t\n\t\\section*{Conclusion}\n\t\n\t\\bibliographystyle{unsrtnat}\n\t\n\\end{document}", labtemp, /labtemp
-Macros\25=VMatrix, \\begin{vmatrix}\n\t%|\n\\end{vmatrix}, vm, /vm
-Macros\26=Assignment Preamble, "\\documentclass[10pt, letterpaper]{geneassignment}\n\\usepackage{geneassignment}\n\\setlist[enumerate]{label={\\alph*}),font=\\bf}\n\n\\title{Assignment %|%<\\#%>%|\\\\\\large{%<COURSE TITLE%>}}\n\\author{\\textbf{Gene Harvey}}\n\\date{Due: %<Month%> %<DD%>, %<YYYY%>}\n\\studentnumber{7796431}\n\n\\begin{document}\n\t\\maketitle\n\t\n\t\\section*{Problem 1}\n\t\\begin{problem}\n\t\t%<Problem Text%>\n\t\\end{problem}\n\t\\begin{solution}\n\t\t%<Solution Text%>\n\t\\end{solution}\n\t\n\\end{document}", AP, /asspre
-Macros\27=Problem, \\section*{%|}\n\\begin{problem}\n\t%<Problem Text%>\n\\end{problem}\n\\begin{solution}\n\t%<Solution Text%>\n\\end{solution}\n, prob, /prob
-Macros\28=align, \\begin{align}\n\t%|%<expression%>%|\n\\end{align}, al, /all
-Macros\29=align*, \\begin{align*}\n\t%|%<expression%>%|\n\\end{align*}, al*, /al\\*
-Macros\30=equation, \\begin{equation}\n\t%|%<expression%>%|\n\\end{equation}, eq, /eqq
-Macros\31=equation*, \\begin{equation*}\n\t%|%<expression%>%|\n\\end{equation*}, eq*, /eq\\*
-Macros\32=Evaluate, "%SCRIPT\ncurrentLine=editor.text(cursor.lineNumber()); \nfrom=currentLine.lastIndexOf(\"%\")+1; \nto=currentLine.lastIndexOf(\"=\"); \nif (from>=0 && to > from) {\ntoEvaluate = currentLine.substring(from, to);\nwith (Math) { value = eval(toEvaluate);}\ncursor.eraseLine(); \ncursor.insertText(currentLine.substring(0, from)+toEvaluate+\"=\"+value); \ncursor.insertLine();\ncursor.movePosition(1,cursorEnums.Left );\n}", eval, /eval
+Macros\2=Definition*, \\begin{definition*}\n\t%|\n\\end{definition*}, def*, /df\\*
+Macros\3=SI, \\SI{%|%<num%>%|}{%<units%>}%<%:persistent%>, SI, /si
+Macros\4=KK, \\mathbbm{K}, KK, kkk
+Macros\5=Integral, \\int_{%|%<a%>%|}^{%<b%>}%<f(x)%>\\d{%<x%>}, int, /int
+Macros\6=FF, \\mathbbm{F}, FF, fff
+Macros\7=Math Roman, \\mathrm{%|}%<%:persistent%>, rm, /rm
+Macros\8=BMatrix, \\begin{bmatrix}\n\t%|\n\\end{bmatrix}, bmatrix, "(?highlighted-as:numbers,math-delimiter,math-keyword)/bm"
+Macros\9=CC, \\mathbbm{C}, CC, ccc
+Macros\10=subscript, _{%|}%<%:persistent%>, sub, "(?highlighted-as:numbers,math-delimiter,math-keyword)_"
+Macros\11=superscript, ^{%|}%<%:persistent%>, super, "(?highlighted-as:numbers,math-delimiter,math-keyword)\\^"
+Macros\12=Surround math, "%SCRIPT\ntxt = cursor.selectedText()\neditor.write(\"$\"+txt+\"$\")\ncursor.clearSelection()", $expression$, 
+Macros\13=Theorem, \\begin{theorem}\n\t%|\n\\end{theorem}, thh, /thh
+Macros\14=Theorem, \\begin{theorem*}\n\t%|\n\\end{theorem*}, th*, /th\\*
+Macros\15=Left Right Brackets, \\left[%|\\right]%<%:persistent%>, lr[, "(?highlighted-as:numbers,math-delimiter,math-keyword)/lb"
+Macros\16=Proof, \\begin{proof}\n\t%|\n\\end{proof}, proof, /prf
+Macros\17=Lab Template, "\\documentclass[10pt, letterpaper]{article}\n\\usepackage{genelab}\n\\setlist[enumerate]{label={\\alph*}),font=\\bf}\n\n\\setlength{\\droptitle}{-1in}   % This is your set screw\n\n\\title{\n\\normalfont \\normalsize \n\\textsc{University of Manitoba \\\\ \n%|%<COURSE%>%|, %<TERM%>} \\\\\n[10pt] \n\\rule{\\linewidth}{0.5pt} \\\\[6pt] \n\\huge %<LAB TITLE%>  \\\\\n\\rule{\\linewidth}{2pt}  \\\\[10pt]\n}\n\\author{Gene Harvey}\n\\date{\\normalsize \\today}\n\n\\begin{document}\n\t\\maketitle\n\t\\noindent\n\tDate Performed \\dotfill %<DATE PERFORMED%> \\\\\n\tPartners \\dotfill %<PARTNERS%>\\\\\n\tInstructor \\dotfill %<TA%> \\\\\n\t\n\t\\begin{abstract}\n\t\t\n\t\\end{abstract}\n\t\n\t\\newpage\n\t\n\t\\section*{Introduction}\n\t\n\t\\section*{Methods}\n\t\n\t\\subsection*{Symbols and Equations \\\\ {\\small relevant to results}}\n\t\n\t\\begin{center}\n\t\\def\\arraystretch{1.5}%\n\t\\newcolumntype{P}[1]{>{\\centering\\arraybackslash}p{#1}}\n\t\\begin{tabular}{| c | P{6cm} |}\n\t\\hline\n\t\\multicolumn{1}{|c|}{Ref} & \\multicolumn{1}{c|}{Equation} \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t & \\\\\n\t\\hline\n\t\\end{tabular}\n\t\n\t\\begin{tabular}{| c | p{8cm} | c |}\n\t\\hline\n\t\\multicolumn{1}{|c|}{Symbol} & \\multicolumn{1}{c}{Meaning} & \\multicolumn{1}{|c|}{Units}\\\\ \n\t\\hline\n\t &  &  \\\\\n\t\\hline\n\t\\end{tabular}\n\t\\end{center}\n\t\n\t\\section*{Data and Analysis}\n\t\n\t\\subsection*{Analysis}\n\t\n\t\\begin{center}\n\t\\begin{minipage}{\\textwidth}\n\t\\centering\n\t\\large Derivation of Uncertainties \\\\ \\smallskip\n\t\n\t\\normalsize\n\t\\begin{framed}\n\t\\begin{minipage}{\\textwidth}\n\t\\framebox[1cm][c]{$\\textbf{\\textit{VAR}}$}\n\t\\medskip\n\t\n\t\n\t\\end{minipage}\n\t\\end{framed}\n\t\\end{minipage}\n\t\\end{center}\n\t\n\t\\section*{Discussion}\n\t\n\t\\subsection*{Possible Sources of Error}\n\t\n\t\\subsection*{General Discussion}\n\t\n\t\\section*{Conclusion}\n\t\n\t\\bibliographystyle{unsrtnat}\n\t\n\\end{document}", labtemp, /labtemp
+Macros\18=VMatrix, \\begin{vmatrix}\n\t%|\n\\end{vmatrix}, vm, /vm
+Macros\19=Assignment Preamble, "\\documentclass[10pt, letterpaper]{geneassignment}\n\\usepackage{geneassignment}\n\\setlist[enumerate]{label={\\alph*}),font=\\bf}\n\n\\title{Assignment %|%<\\#%>%|\\\\\\large{%<COURSE TITLE%>}}\n\\author{\\textbf{Gene Harvey}}\n\\date{Due: %<Month%> %<DD%>, %<YYYY%>}\n\\studentnumber{7796431}\n\n\\begin{document}\n\t\\maketitle\n\t\n\t\\section*{Problem 1}\n\t\\begin{problem}\n\t\t%<Problem Text%>\n\t\\end{problem}\n\t\\begin{solution}\n\t\t%<Solution Text%>\n\t\\end{solution}\n\t\n\\end{document}", AP, /asspre
+Macros\20=Problem, \\section*{%|}\n\\begin{problem}\n\t%<Problem Text%>\n\\end{problem}\n\\begin{solution}\n\t%<Solution Text%>\n\\end{solution}\n, prob, /prob
+Macros\21=align, \\begin{align}\n\t%|%<expression%>%|\n\\end{align}, al, /all
+Macros\22=align*, \\begin{align*}\n\t%|%<expression%>%|\n\\end{align*}, al*, /al\\*
+Macros\23=dolla dolla bill yall, $%|$, $...$, sss
+Macros\24=equation, \\begin{equation}\n\t%|%<expression%>%|\n\\end{equation}, eq, /eqq
+Macros\25=equation*, \\begin{equation*}\n\t%|%<expression%>%|\n\\end{equation*}, eq*, /eq\\*
+Macros\26=Evaluate, "%SCRIPT\ncurrentLine=editor.text(cursor.lineNumber()); \nfrom=currentLine.lastIndexOf(\"%\")+1; \nto=currentLine.lastIndexOf(\"=\"); \nif (from>=0 && to > from) {\ntoEvaluate = currentLine.substring(from, to);\nwith (Math) { value = eval(toEvaluate);}\ncursor.eraseLine(); \ncursor.insertText(currentLine.substring(0, from)+toEvaluate+\"=\"+value); \ncursor.insertLine();\ncursor.movePosition(1,cursorEnums.Left );\n}", eval, /eval
+Macros\27=Left Right Vert, \\left|%|\\right|%<%:persistent%>, lr|, "(?highlighted-as:numbers,math-delimiter,math-keyword)/lv"
+Macros\28=ZZ, \\mathbbm{Z}, ZZ, zzz
+Macros\29=QQ, \\mathbbm{Q}, QQ, qqq
+Macros\30=NN, \\mathbbm{N}, NN, nnn
+Macros\31=Bigg Vert, \\bigg|_{%|%<a%>%|}^{%<b%>}, b|, /bv
+Macros\32=BB, \\mathbbm{B}, bbb, bbb
 keysetting\1\id=main/edit/paste~0
 keysetting\1\key=
 keysetting\2\id=main/edit/searching/findinsamedir~0
@@ -409,7 +411,7 @@ Preview\GridX=1
 Preview\GridY=1
 Preview\Single%20Page%20Step=true
 Preview\Continuous=true
-Macros\33=Left Right Vert, \\left|%|\\right|%<%:persistent%>, lr|, "(?highlighted-as:numbers,math-delimiter,math-keyword)/lv"
+Macros\33=HH, \\mathbbm{H}, hhh, hhh
 keysetting\7\id=main/tools/user/cmd1~0
 keysetting\7\key=Ctrl+Shift+F
 keysetting\8\id=main/latex/fontstyles/textsf~0
@@ -424,10 +426,10 @@ keysetting\12\id=main/macros/tag2~0
 keysetting\12\key=Ctrl+Shift+:
 keysetting\13\id=main/macros/tag3~0
 keysetting\13\key="Ctrl+;"
-keysetting\14\id=main/macros/tag43~0
-keysetting\14\key=Ctrl+Shift+A
-keysetting\15\id=main/macros/tag45~0
-keysetting\15\key=Ctrl+V
+keysetting\14\id=main/macros/tag40~0
+keysetting\14\key=Ctrl+V
+keysetting\15\id=main/macros/tag43~0
+keysetting\15\key=Ctrl+Shift+A
 keysetting\16\id=main/tools/user/cmd0~0
 keysetting\16\key=Ctrl+Shift+R
 keysetting\17\id=main/latex/insertrefnextlabel~0
@@ -595,30 +597,32 @@ Tools\Commands\user1=txs:///pdflatex --shell-escape | txs:///view
 Editor\ShowShortcutsInTooltips=true
 Editor\todo%20comment%20regExp=%\\s*(TODO|todo)
 Tools\InterpetCommandDefinitionInMagicComment=true
-Macros\34=ZZ, \\mathbbm{Z}, ZZ, zzz
-Macros\35=QQ, \\mathbbm{Q}, QQ, qqq
-Macros\36=NN, \\mathbbm{N}, NN, nnn
-Macros\37=Bigg Vert, \\bigg|_{%|%<a%>%|}^{%<b%>}, b|, /bv
-Macros\38=BB, \\mathbbm{B}, bbb, bbb
-Macros\39=HH, \\mathbbm{H}, hhh, hhh
-Macros\40=K Matrix Space, \\mathcal{K}, mkk, mkk
-Macros\41=Vector, \\vec{%|}%<%:persistent%>, vec, vvv
-Macros\42=Definition, \\begin{definition}\n\t%|\n\\end{definition}, def, /dff
-Macros\43=Add Coordinates, "%SCRIPT\nvar doit = function(){\nvar mytext=app.clipboard\nvar regExNumberPre = \" *[0-9]+([.][0-9]*)? *\";\nvar regExDigit = /[0-9]/;\nvar regExSpace = / /g;\nvar regExPairPre = \" *(-?\"+regExNumberPre+\")\";\nvar regExPair = new RegExp(\"()[(]\"+regExPairPre+\",\"+regExPairPre+\"[)]\"); ;\n\n//read first coordinate pair\nvar regExFirstPairPre = regExPairPre + \" *([+-]\"+regExNumberPre+\")?\";\nvar regExFirstPair = new RegExp(\"()[(]\"+regExFirstPairPre+\",\"+regExFirstPairPre+\"[)]\");\n\n//extract offsets (start regex search from first digit, to allow -x - y)\nvar matches = regExFirstPair.exec(mytext);\nif (matches == null) throw \"missing\";\n//throw matches;\nvar offsetXPre = matches[4];\nvar offsetYPre = matches[8];\nif (offsetXPre == \"\" && offsetYPre == \"\") throw \"abc\";\nvar offsetX = offsetXPre == \"\"?0.0:offsetXPre.replace(regExSpace, \"\")*1.0;\nvar offsetY = offsetYPre == \"\"?0.0:offsetYPre.replace(regExSpace, \"\")*1.0;\n\n//move first pair\nvar matchpos = mytext.search(regExFirstPair);\neditor.write(mytext.slice(0,matchpos));\neditor.write(\"(\"+(matches[2].replace(regExSpace, \"\")*1.0+offsetX));\neditor.write(\", \"+(matches[6].replace(regExSpace, \"\")*1.0+offsetY)+\")\");\n\n//move other pairs\nvar remaining = mytext.slice(matchpos+matches[0].length);\nwhile (remaining != \"\"){\nmatches = regExPair.exec(remaining);\nif (matches == null) break;\nmatchpos = remaining.search(regExPair);\neditor.write(remaining.slice(0,matchpos));\nremaining = remaining.slice(matchpos+matches[0].length);\neditor.write(\"(\" + ((matches[2].replace(regExSpace, \"\")*1.0)+offsetX) + \", \"+ ((matches[4].replace(regExSpace, \"\")*1.0)+offsetY) + \")\");\n} \neditor.write(remaining);\n}\ndoit();", tikzadd, /t\\+
-Macros\44=Insert Table, "%SCRIPT\ntext = app.clipboard\nnumRows = text.split('\\n').length\nnumCols = text.split('\\n')[0].split('\\t').length\n\ntext = text.replace(/\\t/g, \" & \")\ntext = text.replace(/\\n/g, \" \\\\\\\\\\n\")\neditor.insertText(text)", insTab, /insertTable
-Macros\45=Clean Paste, "%SCRIPT\n//Set ctrl-v to this\ntext = app.clipboard\ntext = text.replace(/\\t/g, \"\")\ntext = text.replace(/(\\S+)\\s*(=|<|\x2264|\x2265|>|\x2260)\\s*([\\d|\\.]+(?!(\\$)))/g, \"\\$$$1 $2 $3\\$\")\ntext = text.replace(/\x2212/g, \"-\")\ntext = text.replace(/\xfb01/g, \"fi\")\ntext = text.replace(/\xfb00/g, \"ff\")\ntext = text.replace(/\x3b8/g, \"\\\\theta\")\ntext = text.replace(/\x3c6/g, \"\\\\phi\")\ntext = text.replace(/\x3a8/g, \"\\\\psi\")\ntext = text.replace(/\x2208/g, \"\\\\in\")\ntext = text.replace(/\xfb03/g, \"ffi\")\neditor.insertText(text)", clean, /paste
-Macros\46=sqrt, \\sqrt{%|}%<%:persistent%>, sq, "(?highlighted-as:numbers,math-delimiter,math-keyword)/q"
+Macros\34=section*, \\section*{%|}, sec*, /s\\*
+Macros\35=K Matrix Space, \\mathcal{K}, mkk, mkk
+Macros\36=Vector, \\vec{%|}%<%:persistent%>, vec, vvv
+Macros\37=Definition, \\begin{definition}\n\t%|\n\\end{definition}, def, /dff
+Macros\38=Add Coordinates, "%SCRIPT\nvar doit = function(){\nvar mytext=app.clipboard\nvar regExNumberPre = \" *[0-9]+([.][0-9]*)? *\";\nvar regExDigit = /[0-9]/;\nvar regExSpace = / /g;\nvar regExPairPre = \" *(-?\"+regExNumberPre+\")\";\nvar regExPair = new RegExp(\"()[(]\"+regExPairPre+\",\"+regExPairPre+\"[)]\"); ;\n\n//read first coordinate pair\nvar regExFirstPairPre = regExPairPre + \" *([+-]\"+regExNumberPre+\")?\";\nvar regExFirstPair = new RegExp(\"()[(]\"+regExFirstPairPre+\",\"+regExFirstPairPre+\"[)]\");\n\n//extract offsets (start regex search from first digit, to allow -x - y)\nvar matches = regExFirstPair.exec(mytext);\nif (matches == null) throw \"missing\";\n//throw matches;\nvar offsetXPre = matches[4];\nvar offsetYPre = matches[8];\nif (offsetXPre == \"\" && offsetYPre == \"\") throw \"abc\";\nvar offsetX = offsetXPre == \"\"?0.0:offsetXPre.replace(regExSpace, \"\")*1.0;\nvar offsetY = offsetYPre == \"\"?0.0:offsetYPre.replace(regExSpace, \"\")*1.0;\n\n//move first pair\nvar matchpos = mytext.search(regExFirstPair);\neditor.write(mytext.slice(0,matchpos));\neditor.write(\"(\"+(matches[2].replace(regExSpace, \"\")*1.0+offsetX));\neditor.write(\", \"+(matches[6].replace(regExSpace, \"\")*1.0+offsetY)+\")\");\n\n//move other pairs\nvar remaining = mytext.slice(matchpos+matches[0].length);\nwhile (remaining != \"\"){\nmatches = regExPair.exec(remaining);\nif (matches == null) break;\nmatchpos = remaining.search(regExPair);\neditor.write(remaining.slice(0,matchpos));\nremaining = remaining.slice(matchpos+matches[0].length);\neditor.write(\"(\" + ((matches[2].replace(regExSpace, \"\")*1.0)+offsetX) + \", \"+ ((matches[4].replace(regExSpace, \"\")*1.0)+offsetY) + \")\");\n} \neditor.write(remaining);\n}\ndoit();", tikzadd, /t\\+
+Macros\39=Insert Table, "%SCRIPT\ntext = app.clipboard\nnumRows = text.split('\\n').length\nnumCols = text.split('\\n')[0].split('\\t').length\n\ntext = text.replace(/\\t/g, \" & \")\ntext = text.replace(/\\n/g, \" \\\\\\\\\\n\")\neditor.insertText(text)", insTab, /insertTable
+Macros\40=Clean Paste, "%SCRIPT\n//Set ctrl-v to this\ntext = app.clipboard\ntext = text.replace(/\\t/g, \"\")\ntext = text.replace(/\x2212/g, \"-\")\ntext = text.replace(/\xfb01/g, \"fi\")\ntext = text.replace(/\xfb00/g, \"ff\")\ntext = text.replace(/\x3b8/g, \"\\\\theta\")\ntext = text.replace(/\x3c6/g, \"\\\\phi\")\ntext = text.replace(/\x3a8/g, \"\\\\psi\")\ntext = text.replace(/\x2208/g, \"\\\\in\")\ntext = text.replace(/\xfb03/g, \"ffi\")\neditor.insertText(text)", clean, /paste
+Macros\41=sqrt, \\sqrt{%|}%<%:persistent%>, sq, "(?highlighted-as:numbers,math-delimiter,math-keyword)/q"
+Macros\42=Parentheses and fraction, \\left(\\frac{%|%<num%>%|}{%<dnm%>}\\right)^{%<pow%>}%<%:persistent%>, pf, "(?highlighted-as:numbers,math-delimiter,math-keyword)/pf"
+Macros\43=Exponential, \\e{%|}%<%:persistent%>, e, "(?highlighted-as:numbers,math-delimiter,math-keyword)/e"
+Macros\44=Spherical Integral, \\int_{0}^{2\\pi}\\int_{0}^{\\pi}\\int_{0}^{\\infty}%|\\d{r}\\d{\\theta}\\d{\\phi}%<%:persistent%>, sphint, /sphint
+Macros\45=section, \\section{%|}, sec, /ss
+Macros\46=unaryminus, %SCRIPT\neditor.insertText('\\{\\\\unaryminus\\{' + triggerMatches[1] + '\\}\\}'), um, \\{-(\\d+)\\}
 Scripts\Privileged%20Read%20Scripts=@Invalid()
 Scripts\Read%20Security%20Mode=1
 Scripts\Privileged%20Write%20Scripts=@Invalid()
 Scripts\Write%20Security%20Mode=1
-Macros\47=Parentheses and fraction, \\left(\\frac{%|%<num%>%|}{%<dnm%>}\\right)^{%<pow%>}%<%:persistent%>, pf, "(?highlighted-as:numbers,math-delimiter,math-keyword)/pf"
-Macros\48=Exponential, \\e{%|}%<%:persistent%>, e, "(?highlighted-as:numbers,math-delimiter,math-keyword)/e"
-Macros\49=Spherical Integral, \\int_{0}^{2\\pi}\\int_{0}^{\\pi}\\int_{0}^{\\infty}%|\\d{r}\\d{\\theta}\\d{\\phi}%<%:persistent%>, sphint, /sphint
-Macros\50=unaryminus, %SCRIPT\neditor.insertText('\\{\\\\unaryminus\\{' + triggerMatches[1] + '\\}\\}'), um, \\{-(\\d+)\\}
-Macros\51=Colon Equal, \\coloneqq, coleq, "\\:\\="
-Macros\52=Figure, "\\begin{figure}[%<H%>]\n\t\\centering\n\t\\includegraphics[width=%<0.618%:select%>\\textwidth]{{%<img%>}}\n\\end{figure}", fig*, /fig\\*
-Macros\53=Figure Caption, "\\begin{figure}[%<H%>]\n\t\\footnotesize\n\t\\centering\n\t\\includegraphics[width=%<0.618%:select%>\\textwidth]{{%<img%>}}\n\t\\caption{%<cap%>}\n\\end{figure}", figg, /figg
+Macros\47=Colon Equal, \\coloneqq, coleq, "\\:\\="
+Macros\48=Figure, "\\begin{figure}[%<H%>]\n\t\\centering\n\t\\includegraphics[width=%<0.618%:select%>\\textwidth]{{%<img%>}}\n\\end{figure}", fig*, /fig\\*
+Macros\49=Figure Caption, "\\begin{figure}[%<H%>]\n\t\\footnotesize\n\t\\centering\n\t\\includegraphics[width=%<0.618%:select%>\\textwidth]{{%<img%>}}\n\t\\caption{%<cap%>}\n\\end{figure}", figg, /figg
+Macros\50=Fraction, \\frac{%|%<num%>%|}{%<dnm%>}%<%:persistent%>, fr, "(?highlighted-as:numbers,math-delimiter,math-keyword)/fr"
+Macros\51=Paragraph, \\paragraph{%|}, pp, /pp
+Macros\52=Left Right Parentheses, \\left(%|\\right)%<%:persistent%>, lr(, "(?highlighted-as:numbers,math-delimiter,math-keyword)/lp"
+Macros\53=Matrix Space, \\mathcal{M}, mmm, mmm
+Editor\CenterDocumentInEditor=false
+Files\Save%20As%20Default=?a)/document
 
 [formats]
 version=1.0
